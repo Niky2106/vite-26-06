@@ -21,3 +21,4 @@
 - Ivan Alva
 - Giuseppe Riccardo Lentini
 - Davide Chiarelli
+- Rosu Nicoleta
